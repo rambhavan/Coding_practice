@@ -25,8 +25,8 @@ public class DiagonalDifference {
         }
 
 
-        int diff = diagonal1 - diagonal2;
-        System.out.println(Math.abs(diff));
+        int difference = diagonal1 - diagonal2;
+        System.out.println(Math.abs(difference));
 
     }
 }
