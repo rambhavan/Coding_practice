@@ -30,3 +30,4 @@ public class MarsExpolration {
         System.out.println(m);
     }
 }
+
