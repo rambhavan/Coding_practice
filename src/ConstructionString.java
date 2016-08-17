@@ -27,4 +27,5 @@ public class ConstructionString {
         System.out.println(value);
     }
 
+
 }
